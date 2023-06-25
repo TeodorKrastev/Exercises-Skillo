@@ -4,80 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1be7b1c-9f5a-4f86-b014-94c156a6a7d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture02/Exercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture04/Examples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture04/Exercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture05/Examples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture05/Exercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture06/Exercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture07/constructors/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture07/constructors/Examples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture07/constructors/exercises/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture07/constructors/exercises/Exercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture07/constructors/vehicle/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture07/constructors/vehicle/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture07/exceptions/Examples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture07/exceptions/NestedExceptionsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture07/exceptions/exercises/CodeFixExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture07/exceptions/exercises/Exercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture08/examples/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture08/examples/ClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture08/examples/Examples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture08/examples/abstraction/abstractclass/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture08/examples/abstraction/abstractclass/Examples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture08/examples/abstraction/abstractclass/Pig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture08/examples/abstraction/exampleinterface/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture08/examples/abstraction/exampleinterface/Examples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture08/examples/abstraction/exampleinterface/Pig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture08/examples/encapsulation/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture08/examples/encapsulation/Examples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture08/examples/inheritance/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture08/examples/inheritance/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture08/examples/inheritance/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture08/examples/polymorphism/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture08/examples/polymorphism/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture08/examples/polymorphism/Examples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture08/examples/polymorphism/Pig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture08/exercises/employee/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture08/exercises/employee/Exercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture08/exercises/shape/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture08/exercises/shape/Exercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture08/exercises/shape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture08/exercises/shape/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture09/American.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture09/Bulgarian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture09/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture09/Exercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture09/Italian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture09/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture10/ATestNGLifeCycleTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture10/AssertionsTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture10/BaseClassTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture10/ChildClassTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture10/DataProviderTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture10/DependencyTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture10/ExceptionTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture10/GroupTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture10/ParallelSecondTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture10/ParallelTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture10/ParametersTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture10/PriorityTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture10/exercises/Exercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture10/exercises/testing.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture11/bookstore.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture12/WebDriverExampleTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture12/WebDriverWithDriverPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture13/Exercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing-parallel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing-parameters.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing.xml" afterDir="false" />
+    <list default="true" id="a1be7b1c-9f5a-4f86-b014-94c156a6a7d0" name="Changes" comment="RegisterNewUserTest">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,22 +31,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Unknown/Desktop/New folder/Exercises-Skillo/src/test/java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "build.tools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Unknown/Desktop/New folder/Exercises-Skillo/src/test/java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JAVA"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Unknown\Desktop\New folder\Exercises-Skillo\src\test\java" />
@@ -129,7 +57,7 @@
       <recent name="C:\Users\Unknown\Desktop\New folder\Exercises-Skillo\src\main\lecture02" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.RegisterNewUserTest.registerNewUserTest">
     <configuration name="Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises" />
       <module name="sk06_automation" />
@@ -137,8 +65,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RegisterNewUserTest.registerNewUserTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sk06_automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lecture14" />
+      <option name="MAIN_CLASS_NAME" value="lecture14.RegisterNewUserTest" />
+      <option name="METHOD_NAME" value="registerNewUserTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.RegisterNewUserTest.registerNewUserTest" />
         <item itemvalue="Application.Exercises" />
       </list>
     </recent_temporary>
@@ -152,6 +99,26 @@
       <option name="presentableId" value="Default" />
       <updated>1687184055171</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exercises">
+      <created>1687191928496</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687191928496</updated>
+    </task>
+    <task id="LOCAL-00002" summary="RegisterNewUserTest">
+      <created>1687363063184</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687363063184</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercises" />
+    <MESSAGE value="RegisterNewUserTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="RegisterNewUserTest" />
   </component>
 </project>
