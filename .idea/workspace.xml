@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1be7b1c-9f5a-4f86-b014-94c156a6a7d0" name="Changes" comment="RegisterNewUserTest">
+    <list default="true" id="a1be7b1c-9f5a-4f86-b014-94c156a6a7d0" name="Changes" comment="ExampleTests">
+      <change afterPath="$PROJECT_DIR$/src/test/java/lecture16/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lecture16/pages/Header.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lecture16/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lecture16/pages/ProfilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lecture16/tests/LoginTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +53,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="lecture16.tests" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Unknown\Desktop\New folder\Exercises-Skillo\src\test\java" />
       <recent name="C:\Users\Unknown\Desktop\New folder\Exercises-Skillo\src\main\java" />
@@ -57,10 +65,27 @@
       <recent name="C:\Users\Unknown\Desktop\New folder\Exercises-Skillo\src\main\lecture02" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.RegisterNewUserTest.registerNewUserTest">
+  <component name="RunManager" selected="TestNG.LoginTest">
     <configuration name="Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises" />
       <module name="sk06_automation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sk06_automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture16.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lecture16.tests" />
+      <option name="MAIN_CLASS_NAME" value="lecture16.tests.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LoginTest" />
         <item itemvalue="TestNG.RegisterNewUserTest.registerNewUserTest" />
         <item itemvalue="Application.Exercises" />
       </list>
@@ -113,12 +139,20 @@
       <option name="project" value="LOCAL" />
       <updated>1687363063184</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ExampleTests">
+      <created>1687720659367</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687720659367</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercises" />
     <MESSAGE value="RegisterNewUserTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="RegisterNewUserTest" />
+    <MESSAGE value="ExampleTests" />
+    <option name="LAST_COMMIT_MESSAGE" value="ExampleTests" />
   </component>
 </project>
