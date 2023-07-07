@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1be7b1c-9f5a-4f86-b014-94c156a6a7d0" name="Changes" comment="ExampleTests">
-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture16/pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture16/pages/Header.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture16/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture16/pages/ProfilePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture16/tests/LoginTest.java" afterDir="false" />
+    <list default="true" id="a1be7b1c-9f5a-4f86-b014-94c156a6a7d0" name="Changes" comment="lecture16">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -40,7 +42,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Unknown/Desktop/New folder/Exercises-Skillo/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Unknown/Desktop/New folder/Exercises-Skillo&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -146,13 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687720659367</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lecture16">
+      <created>1687961208411</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687961208411</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercises" />
     <MESSAGE value="RegisterNewUserTest" />
     <MESSAGE value="ExampleTests" />
-    <option name="LAST_COMMIT_MESSAGE" value="ExampleTests" />
+    <MESSAGE value="lecture16" />
+    <option name="LAST_COMMIT_MESSAGE" value="lecture16" />
   </component>
 </project>
